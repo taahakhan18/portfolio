@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Animated Portfolio",
+  title: "My-Portfolio",
 };
 
 export default function RootLayout({ children }) {
